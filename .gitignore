@@ -1,0 +1,5 @@
+# Bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
